@@ -1,0 +1,8 @@
+1050,Carlos
+1040,Lucia
+1070,Pedro
+1001,Ana
+1010,Luis
+1020,Laura
+1030,Sofia
+1080,Jorge
